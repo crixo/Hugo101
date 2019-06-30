@@ -3,60 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-06-30T19:02:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/github/</loc>
+    <loc>/tags/github/</loc>
     <lastmod>2019-06-30T19:02:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/my-first-post/</loc>
+    <loc>/post/my-first-post/</loc>
     <lastmod>2019-06-30T19:02:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2019-06-30T19:02:50+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/post/</loc>
+    <loc>/</loc>
     <lastmod>2019-06-30T19:02:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-06-30T19:02:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/base16/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-06-30T19:02:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/hugo/</loc>
+    <loc>/categories/base16/</loc>
     <lastmod>2019-06-30T19:02:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/markdown/</loc>
+    <loc>/categories/hugo/</loc>
     <lastmod>2019-06-30T19:02:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/website/</loc>
+    <loc>/tags/markdown/</loc>
+    <lastmod>2019-06-30T19:02:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/website/</loc>
     <lastmod>2019-06-30T19:02:50+02:00</lastmod>
     <priority>0</priority>
   </url>
